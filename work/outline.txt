@@ -1,0 +1,158 @@
+[h1] Préface
+[p] La République Démocratique du Congo (RDC) évolue dans un contexte sanitaire marqué par des besoins importants,
+[p] C’est dans cette perspective qu’a été réalisé le présent Diagnostic opérationnel rapide des établissements de 
+[p] Le diagnostic a notamment examiné la capacité des établissements à réunir les conditions essentielles à la pre
+[p] Les résultats présentés dans ce rapport constituent une contribution importante à la compréhension des contrai
+[p] Je tiens à exprimer ma profonde gratitude aux autorités sanitaires, aux responsables des établissements de soi
+[p] J’adresse une reconnaissance particulière au Dr Ngashi Ngongo, au Dr Gullit Lufiauluisu et à l’ensemble de l’é
+[p] J’encourage toutes les parties prenantes à s’approprier les résultats et recommandations de ce rapport et à le
+[li] Narcisse Naia Embeke, MD, MPH
+[p] Directeur Technique, Projet EpiC RDC
+[h1] Remerciements
+[p] La réalisation de cette évaluation a reposé sur la mobilisation de nombreuses institutions, équipes et personn
+[p] Nos premiers remerciements s’adressent à FHI 360, pour la confiance accordée à ICHESS et son accompagnement te
+[p] Nous remercions les Divisions Provinciales de la Santé (DPS) et les Équipes Cadres des Zones de Santé (ECZ) po
+[p] Une reconnaissance particulière est adressée aux superviseurs provinciaux : Gullit Lufiauluisu (Lualaba), Prin
+[p] ICHESS remercie particulièrement Ngashi Ngongo, Investigateur Principal, pour la direction scientifique et mét
+[p] Enfin, nous remercions Jean Lubuanga et Emmanuel Nsamba, ainsi que l’équipe administrative et financière d’ICH
+[li] Ngashi Ngongo, PhD, MD, MPH Directeur Exécutif, ICHESS
+[h1] Table des matières
+[p] Préface ......................................................................................................
+[TABLE p4] caption=None rows=44 cols=3
+[li] Annexe 2 : Haut-Lomami .......................................................................................
+[h1] Liste des figures et tableaux
+[p] Liste des figures
+[p] Liste des tableaux
+[li] 7
+[p] Tableaux des annexes
+[li] 0
+[h1] Abréviations et acronymes
+[TABLE p9] caption=None rows=42 cols=2
+[TABLE p10] caption=None rows=30 cols=2
+[h1] Résumé exécutif
+[p] Contexte et objectif
+[p] En RDC, la grossesse, l’accouchement et les premières années de vie restent exposés à des risques parmi les pl
+[p] Les défaillances opérationnelles les plus prioritaires
+[p] Le constat central est que l’offre de soins existe souvent sans être prête au moment où une vie en dépend. Sur
+[p] Les défaillances de préparation présentant le plus grand risque
+[p] Le risque le plus immédiat tient à quelques éléments dont l’absence suffit à compromettre une prise en charge 
+[p] Les principaux goulots d’étranglement transversaux
+[p] Les défaillances tiennent moins à un service particulier qu’à quelques goulots communs à toute la chaîne de so
+[p] Où investir en priorité
+[p] Les déficits touchent les huit provinces, avec des profils qui appellent des réponses différenciées. Le Sankur
+[p] Les cinq priorités d’investissement immédiates (0–3 mois)
+[p] Elles peuvent être engagées avec les circuits et les acteurs existants. La première consiste à doter des quatr
+[p] Les cinq priorités de renforcement du système à moyen terme (3–12 mois)
+[p] À moyen terme, l’enjeu est de restaurer des fonctions de soins complètes plutôt que de combler des manques iso
+[p] Recommandations stratégiques pour le dialogue avec le Département d’État des États-Unis (DOS)
+[p] Cinq messages peuvent structurer ce dialogue. Le premier est de financer des fonctions de soins complètes, org
+[h1] I.
+[h1] Introduction
+[h2] 1.1. Contexte et justification
+[p] La République démocratique du Congo (RDC) demeure l’un des pays d’Afrique subsaharienne où la maternité et la 
+[p] Cette vulnérabilité s’inscrit dans un contexte de forte fécondité, avec 5,5 enfants par femme et près d’une ad
+[p] Les ressources disponibles restent insuffisantes au regard de ces besoins. La part du budget national consacré
+[p] À ces contraintes structurelles s’ajoute une forte pression épidémique. Depuis mai 2026, le pays fait face à u
+[p] La RDC dispose certes de données importantes pour orienter son système de santé. Toutefois, les grandes enquêt
+[p] C’est dans cette perspective que le programme EpiC RDC, mis en œuvre par FHI 360, appuie le renforcement intég
+[p] Coordonné techniquement par ICHESS, ce diagnostic complète les dispositifs nationaux existants en apportant un
+[p] appuyés. Il vise à identifier les contraintes les plus critiques, hiérarchiser les besoins et traduire les con
+[h2] 1.2.
+[li] Objectifs et résultats attendus
+[h3] 1.2.1. Objectif général
+[p] Établir une évaluation hiérarchisée et directement exploitable de l'état de préparation opérationnelle des éta
+[h3] 1.2.2. Objectifs spécifiques
+[li] Évaluer la préparation fonctionnelle des établissements enquêtés au regard des ressources humaines, des intran
+[h3] 1.2.3. Périmètre du diagnostic
+[TABLE p15] caption=Tableau 1: Périmètre du diagnostic rows=14 cols=3
+[h3] 1.2.4. Résultats attendus
+[li] Le niveau de préparation fonctionnelle des établissements enquêtés est documenté, notamment pour les ressource
+[h2] 1.3. Bénéficiaires et utilisations des résultats
+[h3] 1.3.1. Bénéficiaires
+[p] Les résultats de ce diagnostic s'adressent en premier lieu à EpiC RDC et à ses partenaires d'exécution, pour o
+[h3] 1.3.2. Utilisation des résultats
+[p] Les résultats sont destinés à un usage programmatique immédiat : prioriser les appuis d'EpiC RDC entre établis
+[h1] II.
+[h1] Approche méthodologique
+[h2] 2.1. Conception générale de l'étude
+[p] Le diagnostic repose sur une conception transversale, descriptive et diagnostique, qui combine deux composante
+[p] L'objet mesuré n'est ni la performance, ni la qualité clinique des soins, ni l'utilisation effective des servi
+[h2] 2.2. Population, échantillonnage et unités d'analyse
+[h3] 2.2.1. Base de sondage et plan d'échantillonnage
+[p] L'échantillon a été constitué en trois étapes à partir d'une base consolidée d'établissements issue du DHIS2/S
+[caption] Tableau 2: Base de sondage et échantillon réalisé, par niveau géographique
+[p] Trois profils, mutuellement exclusifs, ont guidé la sélection des établissements : les structures de référence
+[h3] 2.2.2. Unités d'analyse
+[p] L'unité principale d'analyse est le couple fonction traceuse–établissement : le diagnostic classe des fonction
+[TABLE p17] caption=None rows=7 cols=7
+[p] chacun avec un dénominateur explicite : fonctions évaluables, fonctions évaluées ou établissements concernés, 
+[p] Aucun score composite ni classement d'établissement n'est produit : les résultats sont restitués sous forme de
+[h2] 2.3. Instruments de collecte
+[h3] 2.3.1. Composante quantitative
+[p] La collecte quantitative repose sur trois questionnaires électroniques harmonisés, adaptés respectivement aux 
+[p] Les questionnaires couvrent neuf blocs communs, notamment l’identification et la couverture, la capacité d'acc
+[p] Le répondant principal est l'infirmier titulaire (IT), son adjoint ou le médecin directeur, appuyé par les res
+[h3] 2.3.2. Composante qualitative
+[p] La collecte qualitative repose sur trois guides d'entretien individuel semi-structuré, correspondant aux trois
+[p] Cette architecture permet de relier systématiquement chaque goulot d’étranglement à ses causes, au niveau auqu
+[p] Participants. La composante qualitative couvre les trois niveaux étudiés : un entretien dans chacun des établi
+[h2] 2.4. Organisation de la collecte
+[h3] 2.4.1. Phasage du déploiement
+[p] Le déploiement, confié par FHI 360 à ICHESS, s’est déroulé en trois phases. Le pré-déploiement (huit semaines)
+[p] test dans la zone de santé urbano-rurale de Mont-Ngafula 2 à Kinshasa, ainsi que la formation des superviseurs
+[p] Le déploiement (deux semaines) a compris la formation des enquêteurs, suivie de la collecte séquentielle des d
+[p] La conduite simultanée de la collecte dans les huit provinces a permis de réduire les biais liés aux variation
+[h3] 2.4.2. Dispositif humain et circuit d’assurance qualité
+[p] Le dispositif a mobilisé huit superviseurs, un par province, et quarante enquêteurs, un par zone de santé (ZS)
+[h2] 2.5. Assurance qualité des données
+[p] L’assurance qualité était organisée à trois niveaux complémentaires. À la saisie, des contrôles automatisés li
+[p] Au niveau analytique, le dispositif de contrôle qualité prévoyait une contre-visite indépendante dans 8 à 10 %
+[h2] 2.6. Cadre analytique : fonctions traceuses et classification tricolore
+[h3] 2.6.1. Fonctions traceuses
+[p] L'analyse repose sur 28 fonctions traceuses, directement dérivées des questionnaires et regroupées en quatre d
+[p] Deux fenêtres temporelles complémentaires mais non interchangeables structurent l'évaluation. Le jour de l'enq
+[p] survenue de cas au cours de cette période est recueillie uniquement à des fins contextuelles et n'entre pas da
+[caption] Tableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau)
+[p] Les 28 fonctions traceuses sont également classées selon leur niveau de criticité : 15 fonctions vitales, dont
+[p] Définitions et conventions de lecture
+[p] Fonction traceuse. Soin ou service essentiel dont la réalisation requiert la disponibilité simultanée de plusi
+[TABLE p20] caption=None rows=29 cols=5
+[p] de soins, elle fait l’objet d’une spécification propre à chaque niveau, définissant les exigences correspondan
+[p] Domaine. Regroupement des fonctions traceuses en cinq champs : santé de la mère, du nouveau- né, de l’enfant e
+[p] Criticité. Une fonction est vitale lorsque sa défaillance peut mettre immédiatement une vie en danger, comme l
+[p] Dimension. Registre dans lequel une contrainte susceptible d’affecter une fonction est recherchée. Douze dimen
+[p] Classification. Une fonction est classée Verte lorsqu’elle est pleinement opérationnelle, Jaune lorsqu’elle pe
+[p] Dénominateurs. Les proportions de fonctions Vertes, Jaunes et Rouges sont calculées sur K, nombre d’évaluation
+[p] Levier. Simulation consistant à rejouer l’algorithme en supposant corrigée une dimension donnée, toutes choses
+[p] Portée. L’échantillonnage étant raisonné, les résultats décrivent exclusivement les 160 établissements évalués
+[h3] 2.6.2. Algorithme de classification Vert / Jaune / Rouge
+[p] La classification de chaque fonction repose sur un algorithme unique, déterministe et standardisé, appliqué de
+[p] L’algorithme utilise quatre variables canoniques : (i) conditions présentes, qui indique si toutes les conditi
+[p] service, tel que l’emprunt de produits, un transport improvisé ou l’utilisation d’un téléphone personnel comme
+[p] À partir de ces quatre variables, huit règles de décision hiérarchisées, appliquées dans un ordre fixe, déterm
+[caption] Tableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge
+[p] N°
+[li] Condition Résultat
+[li] exclusivement sur les conditions actuelles
+[p] Pour chaque fonction classée Jaune ou Rouge, un goulot d’étranglement principal unique est attribué selon un o
+[p] Chaque goulot est ensuite qualifié selon son niveau d’imputation présumé : établissement ou système. Cette dis
+[TABLE p22] caption=None rows=9 cols=3
+[caption] Tableau 5: Rôle des douze dimensions dans les 71 spécifications
+[p] L’organisation du service est la dimension la plus fréquemment bloquante (68 spécifications sur 71), suivie de
+[TABLE p23] caption=None rows=13 cols=6
+[caption] Tableau 6: Modalités d’application des règles de classification
+[p] Ces règles sont appliquées sans marge d’appréciation. Deux influencent particulièrement l’interprétation des r
+[h2] 2.7. Analyse qualitative
+[p] Les entretiens font l’objet d’une analyse thématique structurée, fondée sur un cadre de codage initial dérivé 
+[p] L’analyse suit un processus explicite de triangulation : les constats objectivés dans les établissements sont 
+[p] Cette approche assure la traçabilité des recommandations, chacune étant fondée sur un constat quantitatif obje
+[h2] 2.8. Chaîne de traitement des données et reproductibilité
+[p] Le traitement suit six étapes scriptées (import, nettoyage, empilement des trois bases, dérivation des variabl
+[TABLE p24] caption=None rows=19 cols=2
+[h2] 2.9. Considérations éthiques
+[p] L’évaluation n’a recueilli aucune donnée individuelle sur les patients. Les registres ont été consultés unique
+[p] Les noms et coordonnées des répondants sont exclus de la base analytique et conservés séparément sous accès re
+[h2] 2.10. Limites méthodologiques
+[p] Trois limites principales ont guidé l’interprétation des résultats. Premièrement, l’échantillonnage raisonné n
+[p] Deuxièmement, l’évaluation mesure la préparation opérationnelle, et non la qualité clinique des soins ou l’uti
+[p] Troisièmement, la classification tricolore, bien que fondée sur un algorithme déterministe, standardisé et doc
