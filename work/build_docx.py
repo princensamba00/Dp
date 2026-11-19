@@ -297,7 +297,6 @@ def build(out_path):
     sec.header_distance = Pt(0)
     sec.footer_distance = Pt(0)
     band(sec, header=True)
-    band(sec, header=False)
 
     p = doc.add_paragraph()
     p.paragraph_format.space_after = Pt(0)

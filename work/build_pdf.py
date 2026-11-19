@@ -135,7 +135,6 @@ class Report(BaseDocTemplate):
         canv.saveState()
         canv.setFillColor(NAVY)
         canv.rect(0, D.PAGE_H - D.BAND_H, D.PAGE_W, D.BAND_H, stroke=0, fill=1)
-        canv.rect(0, 0, D.PAGE_W, D.BAND_H, stroke=0, fill=1)
         canv.setFillColor(BLACK)
         tracked(canv, "ICHESS, LLC", D.MARGIN_L, D.PAGE_H - 82, "Head", 10, 2.2)
         rt = "FHI 360 · EpiC RDC"

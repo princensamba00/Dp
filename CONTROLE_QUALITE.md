@@ -5,7 +5,7 @@
 | Fichier | Rôle |
 |---|---|
 | `Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_ICHESS_2026.docx` | Document Word modifiable (styles, TOC actualisable, tableaux) |
-| `Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_ICHESS_2026.pdf` | PDF final, prêt pour impression (20 pages + couverture) |
+| `Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_ICHESS_2026.pdf` | PDF final, prêt pour impression (21 pages dont couverture) |
 | `polices/` | Polices utilisées (à installer sur le poste pour un rendu Word identique) |
 
 ## A. Contrôle du contenu (source = Document 1 uniquement)
@@ -34,7 +34,8 @@
 
 ## C. Contrôle technique (PDF)
 
-- 21 pages, format A4 (595,28 × 841,89 pt), marges 64,2 pt.
+- 21 pages, format A4 (595,28 × 841,89 pt), marges 64,2 pt ; sommaire et signets à jour
+  (33 entrées vérifiées page par page).
 - **Césure désactivée** : aucun mot, sigle, nom ou organisme coupé en fin de ligne
   dans tout le document.
 - **Paragraphes justifiés** ; titres centrés/à gauche selon le modèle.
